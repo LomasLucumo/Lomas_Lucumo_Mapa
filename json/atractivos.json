@@ -1,0 +1,17 @@
+[
+    {
+        "nombre": "NOMBRECITO1",
+        "descripcion": "BLABLABLA.",
+        "imagen": "img/laguna.jpg",
+        "top": "36.25%",
+        "left": "63.33%"
+    },
+    {
+        "nombre": "NOMBRECITO2",
+        "descripcion": "BLABLABLA.",
+        "imagen": "img/mellizos.jpg",
+        "top": "20%",
+        "left": "54%"
+    }
+]
+
