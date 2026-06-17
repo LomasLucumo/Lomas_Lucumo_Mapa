@@ -2,13 +2,14 @@ html {
     margin: 0;
     padding: 0;
     height: auto;
+    background: #FFFFFF;
 }
 
 body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-    background: #f4f4f4;
+    background: #FFFFFF;
     height: auto;
 }
 
@@ -38,12 +39,19 @@ h1 {
     line-height: 0;
 }
 
+#contenedorReg {
+    width: 100%;
+    max-width: 1200px;
+    margin: 15px auto 15px; 
+    line-height: 0;
+}
+
 #mapa {
     width: 100%;
     height: auto;
     display: block;
 }
-
+/* Para mapa interactivo*/
 .punto {
     position: absolute;
     width: 20px;
