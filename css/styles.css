@@ -13,24 +13,6 @@ body {
     height: auto;
 }
 
-.header {
-    background: green;
-    display: flex;
-    justify-content: center;  
-    align-items: center;     
-    padding: 20px;
-    color: white;
-}
-
-h1 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 24px;
-    font-weight: bold;
-    margin: 0;
-    text-align: center;
-    letter-spacing: 2px;
-}
-
 #contenedorMapa {
     position: relative;
     width: 100%;
