@@ -92,7 +92,7 @@ body {
     line-height: 1.5;
 }
 
-@media (max-width: 768px) {
+/*@media (max-width: 768px) {
     h1 {
         font-size: 1.3rem;
     }
@@ -107,30 +107,18 @@ body {
         margin: 20px auto;
         padding: 15px;
     }
-}
+}*/
 
-@media (max-width: 600px) {
+/*@media (max-width: 600px) {
     .header {
         flex-direction: column;
         justify-content: center;
         text-align: center;
         gap: 10px;
     }
-}
+}*/
 
-@media (max-width: 480px) {
-    h1 {
-        font-size: 1.1rem;
-    }
 
-    .punto {
-        width: 14px;
-        height: 14px;
-    }
-
-    #cerrar {
-        font-size: 20px;
-    }
     
 }
 @media (max-width: 576px) {  
